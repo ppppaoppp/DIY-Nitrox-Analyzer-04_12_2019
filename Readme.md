@@ -8,12 +8,14 @@ Here I think is the most critical aspect of this project - getting the right par
 
 Parts list:
 
-* Arduino Nano or clone
-* ADS1115 16 Bit ADC
-* 0.96" I2C Monochrome 128 x 64 OLED Display (ADS 1306  controller clone)
-* NO Push button switch
-* Latching power switch
-* Oxygen sensor (PSR-11-39-JD)
+|Part|Notes|US price and link|Aus price and link|
+|---|---|---|---|
+|Arduino Nano or clone||||
+|ADS1115 16 Bit ADC||||
+|0.96" I2C Monochrome 128 x 64 OLED Display |(ADS 1306  controller clone)|||
+|NO Push button switch||||
+|Latching power switch||||
+|Oxygen sensor (PSR-11-39-JD)||[$80](https://www.divegearexpress.com/specialty-oxygen-sensors)|[$138.60](https://www.divetekoz.com.au/index.php/divetekoz-online-store/product/18-psr-11-39-jd-oxygen-sensor.html)|
 
 Libraries:
 
@@ -83,8 +85,6 @@ Sampler:
 1” PVC pipe cap drilled with 1 1.2 mm hole at the center and four 1/8” inch at the sides, near the base. Just superglue it over the hole you drilled and tapped for the sensor.
 
 Included as a JPEG file is a Fritzing schematic, minus the power switch.
-
-
 
 ![Fritzing schematic, minus the power switch](<Pao Nitrox Analyzer Schematic.jpg>)
 
