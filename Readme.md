@@ -8,14 +8,14 @@ Here I think is the most critical aspect of this project - getting the right par
 
 Parts list:
 
-|Part|Notes|US price and link|Aus price and link|
-|---|---|---|---|
-|Arduino Nano or clone||||
-|ADS1115 16 Bit ADC||||
-|0.96" I2C Monochrome 128 x 64 OLED Display |(ADS 1306  controller clone)|||
-|NO Push button switch||||
-|Latching power switch||||
-|Oxygen sensor (PSR-11-39-JD)||[$80](https://www.divegearexpress.com/specialty-oxygen-sensors)|[$138.60](https://www.divetekoz.com.au/index.php/divetekoz-online-store/product/18-psr-11-39-jd-oxygen-sensor.html)|
+|Part|img|Notes|US price and link|Aus price and link|
+|---|---|---|---|---|
+|Arduino Nano or clone|||||
+|ADS1115 16 Bit ADC|![the Adafruit version of this part](part_images/1085-10.jpg)||||
+|0.96" I2C Monochrome 128 x 64 OLED Display |![the Adafruit version of this part](part_images/326-04.jpg)|(ADS 1306  controller clone)|||
+|<acronym title="Normally Open">NO</acronym> Push button switch|||||
+|Latching power switch|||||
+|Oxygen sensor (PSR-11-39-JD)|||[$80](https://www.divegearexpress.com/specialty-oxygen-sensors)|[$138.60](https://www.divetekoz.com.au/index.php/divetekoz-online-store/product/18-psr-11-39-jd-oxygen-sensor.html)|
 
 Libraries:
 
