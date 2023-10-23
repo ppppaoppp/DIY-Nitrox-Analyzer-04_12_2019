@@ -84,6 +84,8 @@ Sampler:
 
 Included as a JPEG file is a Fritzing schematic, minus the power switch.
 
-![Fritzing schematic, minus the power switch]("Pao Nitrox Analyzer Schematic.jpg")
+
+
+![Fritzing schematic, minus the power switch](<Pao Nitrox Analyzer Schematic.jpg>)
 
 Enjoy! :-D
