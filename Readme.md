@@ -89,3 +89,5 @@ Included as a JPEG file is a Fritzing schematic, minus the power switch.
 ![Fritzing schematic, minus the power switch](<Pao Nitrox Analyzer Schematic.jpg>)
 
 Enjoy! :-D
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDRNXW0M00o?si=W9J9J5ffGBQH09Mz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
