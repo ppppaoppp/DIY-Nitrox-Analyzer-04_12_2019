@@ -19,9 +19,9 @@ Parts list:
 
 Libraries:
 
-* Running Average by Rob Tillaart
-* ADS1015
-* Adafruit_SSD1306
+* [Running Average by Rob Tillaart](https://github.com/RobTillaart/RunningAverage)
+* [ADS1015](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/)
+* [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 * Wire (Included in the IDE)
 
 Sampler:
